@@ -12,8 +12,8 @@ Requirement
 4)  Then create Alpine folder for Distro c:\WSL\Alpine
 5)  open cmd
 6)   Import Alpine.tar using command as below:
-   wsl --import Alpine c:\WSL\Alpine c:\Alpine.tar
-7) Run your Alpine using command as below:
-   wsl -d Alpine
+   <br> <br>wsl --import Alpine c:\WSL\Alpine c:\Alpine.tar<br><br>
+ 8) Run your Alpine using command as below:
+   <br><br>wsl -d Alpine
 
    Enjoy!
