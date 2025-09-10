@@ -7,7 +7,7 @@ Requirement
 -------------------------------------------------------------------------------------------------------------
 
 1)  WSL2 must be installed first!
-2)  Download Alpine.tar and copy at your c:\Alpine.tar
+2)  Download <a href"https://github.com/saharudinsaat/alpinewsl2/raw/refs/heads/main/Alpine.tar">Alpine.tar</a> and copy at your c:\Alpine.tar
 3)  create Folder c:\WSL
 4)  Then create Alpine folder for Distro c:\WSL\Alpine
 5)  open cmd
