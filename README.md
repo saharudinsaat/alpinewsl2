@@ -1,5 +1,5 @@
 # alpinewsl2
-Running Alpine 3.22 on WSL2
+Running Alpine 3.22 on WSL2 Windows 11
 
 Just import Alpine.tar file into WSL2.
 
